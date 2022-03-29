@@ -1,0 +1,125 @@
+body {
+  font-family: 'Dosis';
+  margin: 0;
+  background-color: #fafafa;
+}
+
+header {
+  background-color: #00E265;
+  padding: 3.3%;
+}
+
+.menu .ima{
+    width: auto;
+    height: 13%;
+    position: absolute;
+    left: 0;
+
+    top: 0;
+    margin: auto;
+}
+  hr{
+
+      background-color: #A6A6A6;
+      margin-left: 50%;
+      padding-left: 0%;
+      padding-right: 0%;
+      padding-bottom: 0%;
+  }
+.login{
+    float: left;
+    font-size: 50px;
+    margin-left: 12%;
+    font-weight: bold;
+    text-align: center;
+}
+.loginform a{
+    margin-left: 25%;
+}
+
+.login p{
+    padding-left: 25px;
+}
+input{
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    font-family: 'Dosis';
+    font-size:25px;
+    border: 1px solid #ACEE41;
+    padding-left: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    width: 120%;
+    font-weight: bold;
+
+}
+.loginform input{
+    border: 1px solid #ff8041;
+
+}
+
+#log{
+    border: 1px solid #ff8041;
+}
+
+.cadastro{
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 60%;
+    position: absolute;
+    margin-top: -40.5%;
+    align-items: center;
+}
+.cadastro p{
+    padding-left: 50px;
+}
+
+
+.button{
+    background: #acee41;
+    color: #000000;
+    width: 275px;
+    height: 68px;
+    border-radius: 30px;
+    border-color: #acee41;
+    font-size:40px;
+    font-family: 'Dosis';
+    font-weight: bold;
+    outline:none;
+    margin-top: 8%;
+    margin-left: 20%;
+    box-shadow: none;
+}
+#corbtnl{
+    border: none;
+
+}
+#corbtn{
+    background: #ff8041;
+    border-color: #ff8041;
+    color: #fff;
+}
+label{
+    color: red;
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+
+.message{
+      font-size: 15px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+    text-align: center;
+}
+footer {
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: 8%;
+  }
+
+

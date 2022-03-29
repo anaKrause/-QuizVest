@@ -1,0 +1,91 @@
+.opcao{
+    font-family:'Dosis';
+    font-size:20px;
+    font-weight:bold;
+    margin-left:1%;
+    margin-top:7%;
+    
+    
+  }
+  .opcao a{
+      text-decoration:none;
+      color:black;
+      padding-left: 2px;
+      padding-right: 20px;
+      font-size: 30px;
+      line-height: 50px;
+      
+  }
+  .opcao .destaque{
+    margin-top: -3%;
+    font-size: 30px;
+    position: absolute;
+    background-color: #FF8041;
+    border-radius: 25px;
+    color: #FFFFFF;
+    width: 15%;
+    text-align: center;
+    padding-bottom: 3px;
+
+  }
+  
+  a{
+    width: 15%;
+  }
+
+  li .menu_lateral{
+    margin-bottom: 4%;
+
+  }
+
+  .column {
+    float: left;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Left and right column */
+  .column.side {
+    width: 25%;
+  }
+  .espaco{
+    position: absolute;
+    width:70%;
+    min-height: 74%;
+    left: 25%;
+    top: 22%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.dados{
+    margin-left: 13%;
+    margin-top: 2%;
+    font-size: 25px;
+}
+td{
+    width: 200px;
+}
+h2{
+    margin-top: 4%;
+    margin-left: 8%;
+    font-size: 30px;
+}
+.logousuario{
+    position: absolute;
+    width: 140px;
+    margin-left: 67%;
+}
+.seguranca{
+  text-decoration: none;
+  color: black;
+  border: 1px solid #FF8041;
+  border-radius: 15px;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+  font-size: 25px;
+  margin-left: 13%;
+  margin-bottom: 3%;
+  font-weight: 600;
+}

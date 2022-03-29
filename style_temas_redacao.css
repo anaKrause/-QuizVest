@@ -1,0 +1,258 @@
+body{
+    margin: 0%;
+    background-color: #fafafa;
+  
+  }
+  
+  header {
+      background: #fff;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    }
+  
+    
+    .menu{
+      font-family: 'Dosis', sans-serif;
+      background-color: #00E265;
+      padding: 3%;
+      text-align: right;
+      font-size: 22px;
+      font-weight: bold;
+      color: black;
+
+      
+    }
+
+    .menu .ima{
+      width: auto;
+      height: 15%;
+      position: absolute;
+      bottom: 90;
+      right: 90;
+      left: 0;
+      top: 0;
+      margin: auto;
+    }
+  
+    #nTexto{
+      float:center;
+      background-color:#ffffff;
+      border:solid 1px;
+      border-radius:30px;
+      width:28%;
+      border-color: #00E265;
+      margin-left: 313px;
+    }
+    
+    #txtBusca{
+      float:center;
+      background-color:transparent;
+      padding-left:auto;
+      font-style:'Dosis';
+      font-size:18px;
+      border:none;
+      height:4%;
+      width:90%;
+    }
+  
+    .lup{
+      position:absolute;
+      top:2.3%;
+      left:48%;
+      margin:0%;
+      padding:3%;
+    }
+  
+    .menu .notif{
+      width: auto;
+      height: 5%;
+      position: absolute;
+      top: 1%;
+      padding:3%;
+      margin: auto;
+      
+    }
+  
+    .user{
+      top:1%;
+      width: auto;
+      height:7%;
+      right: 5%;
+      position: absolute;
+      margin: auto;
+      padding:3%;
+    }
+  
+    .txt{
+      top: -1%;
+      right: 11%;
+      padding:3.5%;
+      position: absolute;
+      font-size:65%;
+     
+    }
+
+    .espaco{
+        position: absolute;
+        width:70%;
+        min-height: 74%;
+        left: 25%;
+        top: 22%;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 30px;
+    }
+
+    .redac{
+        position: absolute;
+        width:70%;
+        height: 9%;
+        left: 25%;
+        top: 22%;
+        background: #FF8041;
+        border-radius: 20px 20px 0 0;
+        z-index: 1;
+        text-align: center;
+    }
+    .redac p{
+        color: #ffffff;
+        font-family: 'Dosis';
+        font-weight: 700;
+        font-size: 45px;
+        margin-top: 0%;
+        z-index: 1;
+
+    }
+    .opcao{
+        font-family:'Dosis';
+        font-size:20px;
+        font-weight:bold;
+        margin-left:1%;
+        margin-top:7%;
+        
+        
+      }
+      .opcao a{
+          text-decoration:none;
+          color:black;
+          padding-left: 2px;
+          padding-right: 20px;
+          font-size: 30px;
+          line-height: 50px;
+
+          
+      }
+      .opcao .destaque{
+        margin-top: -3%;
+        font-size: 30px;
+        position: absolute;
+        background-color: #FF8041;
+        border-radius: 25px;
+        color: #FFFFFF;
+        width: 15%;
+        text-align: center;
+        padding-bottom: 3px;
+
+      }
+      
+      a{
+        width: 15%;
+      }
+
+      li .menu_lateral{
+        margin-bottom: 4%;
+
+      }
+
+      .column {
+        float: left;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+      }
+      
+      /* Left and right column */
+      .column.side {
+        width: 25%;
+      }
+      .re{
+        margin-top: 4%;
+        margin-left: -10%;
+        border-spacing:  200px 50px;
+        border-collapse: separate;
+      }
+      .elementos{
+          width: 140px;
+          height: 190px;
+          background-color: #ACEE42;
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+          border-radius: 15px;
+          text-align: center;
+
+      }
+      .re tr{
+          margin-bottom: 3%;
+      }
+      .img_nota{
+          margin-top: 8px;
+          height: 75px;
+      }
+
+      .text{
+          font-family: 'Dosis';
+          color: #fafafa;
+          font-size: 22px;
+          font-weight: 600;
+          margin-top: 0%;
+      }
+      .n{
+        font-family: 'Dosis';
+        color: black;
+        font-size: 35px;
+        font-weight: 600;
+        margin-top: -15%;
+      }
+      #env{
+          font-size: 25px;
+      }
+      #cred{
+          margin-top: 3%;
+      }
+
+      a{
+        text-decoration: none;
+        color: black;
+    }
+    .temas a{
+        margin-left: 3%;
+    }
+    .temas a:hover{
+        font-weight: 700;
+        color: #00E265;
+    }
+    .temas{
+        margin-left: 5%;
+        z-index: 1;
+        margin-top: 10%;
+        width: 90%;
+        border: 1px solid #FF8041;
+        border-collapse: collapse;
+    }
+    .p1{
+        font-family: 'Dosis';
+        background-color: #ACEE42;
+        font-size: 20px;
+        font-weight: 700;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .p2{
+        font-family: 'Dosis';
+        color: black;
+        border-top: 1px solid #FF8041;
+        font-size: 20px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }

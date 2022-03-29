@@ -1,0 +1,159 @@
+
+      .opcao{
+        font-family:'Dosis';
+        font-size:20px;
+        font-weight:bold;
+        margin-left:1%;
+        margin-top:7%;
+        
+        
+      }
+      .opcao a{
+          text-decoration:none;
+          color:black;
+          padding-left: 2px;
+          padding-right: 20px;
+          font-size: 30px;
+          line-height: 50px;
+
+          
+      }
+      .opcao .destaque{
+        margin-top: -3%;
+        font-size: 30px;
+        position: absolute;
+        background-color: #FF8041;
+        border-radius: 25px;
+        color: #FFFFFF;
+        width: 15%;
+        text-align: center;
+        padding-bottom: 3px;
+
+      }
+      
+      a{
+        width: 15%;
+      }
+
+      li .menu_lateral{
+        margin-bottom: 4%;
+
+      }
+
+      .column {
+        float: left;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+      }
+      
+      /* Left and right column */
+      .column.side {
+        width: 25%;
+      }
+      
+      /* Middle column */
+      .column.middle {
+        width: 50%;
+      }
+      .botoes{
+        width: 50%;
+        margin-right: 3%;
+        margin-left: -17%;
+        border-spacing: 30px;
+
+      }
+
+      td{
+        padding-left: 1%;
+      }
+
+      .materias{
+        width: 148px;
+        height: 216px;
+        border-radius: 25px 25px 25px 25px;
+      }
+      .materia:hover{cursor: pointer;}
+      .materias img{
+        border-radius: 30px;
+        box-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+        
+      }
+
+      .materias .materia{
+        left: 383px;
+        top: 178px;
+        padding: 0;
+        border: none;
+        background: none;
+        outline: 0;
+
+      }
+
+      .pont{
+        font-size: 30px;
+        margin-left: -10%;
+        font-family: 'Dosis';
+        margin-top: 162%;
+        width: 70%;
+
+      }
+
+      .red{
+        font-size: 30px;
+        margin-left: 130%;
+        font-family: 'Dosis';
+        margin-top: -18.5%;
+        width: 70%;      
+      }
+
+      .pontuação{
+        font-family: 'Dosis';
+        font-size: 90px;
+        line-height: 114px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+        letter-spacing: 0.03em; 
+        position: absolute;
+        width: 268px;
+        height: 134px;
+        left: 25%;
+        top:135%;
+        background-color: #AAEF43;
+        border-radius: 0px 50px 50px 50px;
+        color: black;
+      }
+      .pontuação p{
+        margin-left: 30%;
+      }
+
+      .mediared{
+        font-family: 'Dosis';
+        font-size: 90px;
+        line-height: 114px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+        letter-spacing: 0.03em; 
+        position: absolute;
+        width: 268px;
+        height: 134px;
+        left: 60%;
+        top:135%;
+        background-color: #AAEF43;
+        border-radius: 0px 50px 50px 50px;
+        color:black;
+      }
+
+      .mediared p{
+        margin-left: 40%;
+      }
+
+
+      footer {
+        padding: 10px;
+        text-align: center;
+        color: white;
+        margin-top: 70%;
+      }
+    

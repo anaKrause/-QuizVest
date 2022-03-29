@@ -1,0 +1,191 @@
+.body{
+    margin: 0%;
+    background-color: #fafafa;
+  
+  }
+  
+  header {
+      background: #fff;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    }
+  
+    
+    .menu{
+      font-family: 'Dosis', sans-serif;
+      background-color: #00E265;
+      padding: 4%;
+      text-align: right;
+      font-size: 22px;
+      font-weight: bold;
+      color: black;
+      
+    }
+  
+    .menu .ima{
+      width: auto;
+      height: 15%;
+      position: absolute;
+      bottom: 90;
+      right: 90;
+      left: 0;
+      top: 0;
+      margin: auto;
+    }
+  
+    #nTexto{
+      float:center;
+      background-color:#ffffff;
+      border:solid 1px;
+      border-radius:30px;
+      width:28%;
+      border-color: #00E265;
+      margin-left: 313px;
+    }
+    
+    #txtBusca{
+      float:center;
+      background-color:transparent;
+      padding-left:auto;
+      font-style:'Dosis';
+      font-size:18px;
+      border:none;
+      height:4%;
+      width:90%;
+    }
+  
+    .lup{
+      position:absolute;
+      top:2.3%;
+      left:50%;
+      margin:0%;
+      padding:3%;
+    }
+  
+    .menu .notif{
+      width: auto;
+      height: 5%;
+      position: absolute;
+      top: 1%;
+      padding:3%;
+      margin: auto;
+      
+    }
+  
+    .user{
+      top:1%;
+      width: auto;
+      height:7%;
+      right: 5%;
+      position: absolute;
+      margin: auto;
+      padding:3%;
+    }
+  
+    .txt{
+      top: -1%;
+      right: 11%;
+      padding:3.5%;
+      position: absolute;
+      font-size:65%;
+     
+    }
+
+    .opcao{
+        position: absolute;
+        width: 80%;
+        height: 13%;
+        left: 5%;
+        top: 28%;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 30px;
+    }
+
+    #icone{
+        border-radius: 30px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+        width: 13%;
+        height: auto;
+        margin-left: 5%;
+        margin-top: -8%;
+    }
+
+    .opcao{
+        font-family: 'Dosis';
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+     .aula{
+        margin-left:25%;
+        margin-top:-9%;
+    }
+     .tira{
+        margin-left: 38%;
+        margin-top:-3.8%;
+    }
+
+    .apo{
+        margin-left: 63%;
+        margin-top:-3.6%;
+    }
+
+    .exerc{
+        margin-left:82%;
+        margin-top:-3.6%;
+    }
+
+    .fundo{
+      position: absolute;
+      width: 80%;
+      height: auto;
+      left: 5%;
+      top: 50%;
+      background: #FFFFFF;
+      box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+      border-radius: 30px;
+      padding-bottom: 1.8%;
+      align-items: center;
+      padding-left:2%;
+      padding-right: 2%;
+    }
+
+   
+ 
+    .tituloprin{
+      position: absolute;
+      width: 863px;
+      height: 38px;
+      left: 5%;
+      top: 10%;
+
+      background: #F4F4F4;
+      border-radius: 30px;
+    }
+
+    .style-title{
+      color: #FF8041;
+      font-size: 23px;
+      font-weight: bold;
+      
+    }
+
+    .style-lista{
+      font-size:20px;
+      font-weight: bold;
+    }
+
+    ol {
+      counter-reset: item;
+      font-family: 'Dosis';
+    }
+    li {
+      display: block;
+    }
+    
+
+    
